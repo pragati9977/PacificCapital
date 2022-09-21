@@ -1,0 +1,14 @@
+{
+  "time": 1629983901818,
+  "blocks": [
+    {
+      "id": "section-feature-16",
+      "type": "code",
+      "data": {
+        "language": "HTML",
+        "text": "<!-- section content begin -->\n<div class=\"uk-section\">\n    <div class=\"uk-container\">\n        <div class=\"uk-grid uk-grid-large uk-flex uk-flex-middle\" data-uk-grid>\n            <div class=\"uk-width-expand@m\">\n                <span class=\"uk-label uk-margin-remove-bottom\">cool label</span>\n                <h2 class=\"uk-margin-small-top\">Blockit heading 2 feature <span class=\"uk-text-primary\">example of second row</span></h2>\n                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>\n                <div class=\"uk-column-1-2@m uk-margin-medium-top\">\n                    <ul class=\"uk-list uk-list-bullet\">\n                        <li>List item 1</li>\n                        <li>List item 2</li>\n                    </ul>\n                    <ul class=\"uk-list uk-list-bullet\">\n                        <li>List item 3</li>\n                        <li>List item 4</li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"uk-width-3-5@m\">\n                <div class=\"uk-margin-large-left in-margin-remove-left@s\">\n                    <div class=\"uk-grid-medium uk-child-width-1-2@m\" data-uk-grid=\"masonry: true\">\n                        <div>\n                            <div class=\"uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-border-rounded uk-margin-medium-top in-margin-remove-top@s\" style=\"height: 280px\">image</div>\n                        </div>\n                        <div>\n                            <div class=\"uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-border-rounded\" style=\"height: 150px\">image</div>\n                        </div>\n                        <div>\n                            <div class=\"uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-border-rounded\" style=\"height: 150px\">image</div>\n                        </div>\n                        <div>\n                            <div class=\"uk-card uk-card-default uk-flex uk-flex-center uk-flex-middle uk-border-rounded\" style=\"height: 280px\">image</div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n<!-- section content end -->"
+      }
+    }
+  ],
+  "version": "2.21.0"
+}
